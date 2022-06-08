@@ -1,0 +1,22 @@
+table {
+    text-align: center;
+    width: 95vw;
+    height: 95vh;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.table-header {
+    border: none;
+}
+
+.monthBox {
+    text-align: center;
+}

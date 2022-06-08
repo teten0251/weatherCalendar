@@ -1,0 +1,11 @@
+.prefectly {
+    width: 300px;
+    font-size: 300px;
+    background-color: white;
+}
+
+.prefectly .ac,
+.prefectly .hk,
+.prefectly .st {
+    color: #FF0000;
+}
